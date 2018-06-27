@@ -63,6 +63,10 @@ Team Member: Jason
 Create a function that will remove the first item in an array.
 */
 
+function ShiftFunction(arr) {
+return arr.shift();
+}
+
 
 /*Mission 9:
 Team Member: George
