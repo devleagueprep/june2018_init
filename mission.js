@@ -76,7 +76,19 @@ Team Member: Isaiah
 Create a function that will find the multiples of 5 from 0 - 100 and returns a new array of your results.
 */
 
-
+function findMultiplesOfFive (){
+    let arr = [];
+    for (let i = 0; i < 104; i++) {
+        if(i%5===0){
+            arr.push(i);
+        }
+    }
+    return arr;
+    
+}
+var findMultOf5 = findMultiplesOfFive();
+//console.log(findMultOf5);
+//console.log(findMultOf5);
 /*Mission 11: 
 Team Member: Kenny
 
@@ -184,7 +196,6 @@ Team Member: Bronson
  
 Create a function named backwards that takes in a parameter arr and returns the array in reverse order. Use a reverse for loop. 
 Console.log you result.*/
- 
  
  
  
