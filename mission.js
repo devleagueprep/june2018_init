@@ -99,6 +99,11 @@ Team Member: McKarl (aka Patrick)
 
 Create a function named happyBday that takes two parameters name and age and returns the following: "Happy Birthday name! You look awesome at age!" Where your input will replace the name and age parameters.
 Console log to see your result.*/
+
+function happyBday(name, age){
+    return 'Happy Birthday '+name+'! You look awesome at '+age+'!'
+};
+console.log(happyBday('dena', 27))
  
  
 /*Mission 13: 
