@@ -3,6 +3,8 @@
 As always, should you be caught copy and pasta, the Secretary will disavow any knowledge of your actions. 
 This repo will self-destruct in five seconds. Good luck, as you'll need it!*/
 
+console.log('Hello World!');
+
 
 
 /*Mission 1: 
