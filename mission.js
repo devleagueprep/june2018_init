@@ -67,7 +67,19 @@ Team Member: George
 
 Create a function that will divide the following elements in the array by 2 and return a new array of your results.
 */
-var numArr = [10, 20, 30, 40, 50];
+var numArrG = [10, 20, 30, 40, 50];
+
+function divideArrTwo() {
+    var newArr = [];
+
+    for (let i = 0; i < numArrG.length; i++) {
+        newArr.push(numArrG[i] / 2);
+    }
+
+    console.log(newArr);
+}
+
+divideArrTwo();
 
 
 /*Mission 10:
@@ -86,7 +98,7 @@ Team Member: Kenny
 Create a function named weatherReport that takes a parameter weather and returns the following: "Today's forecast is weather." Where your input will replace the weather parameter.
 Console.log to see your result.*/
 
- 
+
 /*Mission 12: 
 Team Member: McKarl (aka Patrick)
  
@@ -97,8 +109,8 @@ Team Member: McKarl (aka Patrick)
 
 Create a function named happyBday that takes two parameters name and age and returns the following: "Happy Birthday name! You look awesome at age!" Where your input will replace the name and age parameters.
 Console log to see your result.*/
- 
- 
+
+
 /*Mission 13: 
 Team Member: Jamie Y
  
@@ -107,8 +119,8 @@ Team Member: Jamie Y
  
 Create a function named doubleUp that takes in a parameter arr and will double the value of each number in the array and returns the array.
 Console.log your result.*/
- 
- 
+
+
 /*Mission 14: 
 Team Member: Harsh
  
@@ -117,7 +129,7 @@ Team Member: Harsh
  
 Create a function named evens that takes in a parameter arr and will sum up only the even indexed numbers in the array and returns a new array.
 Console.log your result.*/
- 
+
 
 /*Mission 15:
 Team Member: Jeff
@@ -128,7 +140,7 @@ Team Member: Jeff
  
 Create a function named plusOne that takes two parameters arr and str and will add a new string element into an array and will return the array.
 Console.log your result*/
- 
+
 
 /*Mission 16:
 Team Member: Jamie F
@@ -138,7 +150,7 @@ Team Member: Jamie F
  
 Create a function named yenConverter that takes a parameter rate and will convert dollars to yen based on today's foreign exchange rate and returns the new yen amount.
 Console.log your result*/
- 
+
 
 /*Mission 17:
 Team Member: Sarah
@@ -148,7 +160,7 @@ Team Member: Sarah
  
 Create a function named kmConverter that takes in a parameter miles and will convert miles to kilometers and returns the new kilometer amount
 Console.log your result.*/
- 
+
 
 /*Mission 18:
 Team Member: Wymin
@@ -163,7 +175,7 @@ Create a function named whatToEat that takes in a parameter budget. Create the f
  >10 => "Peppas"
  
 Console.log your result*/
- 
+
 
 /*Mission 19:
 Team Member: Carl 
@@ -174,7 +186,7 @@ Team Member: Carl
 Create a function named countUp that takes in a parameter arr and will add 1 to each number in the array and returns the array.
 Console.log you result.*/
 var numBox = [6, 24, 16, 2, 3];
- 
+
 
 /*Mission 20:
 Team Member: Bronson
@@ -184,11 +196,10 @@ Team Member: Bronson
  
 Create a function named backwards that takes in a parameter arr and returns the array in reverse order. Use a reverse for loop. 
 Console.log you result.*/
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
