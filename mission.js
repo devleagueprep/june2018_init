@@ -4,35 +4,35 @@ As always, should you be caught copy and pasta, the Secretary will disavow any k
 This repo will self-destruct in five seconds. Good luck!*/
 
 /*Mission 1: 
-Team Member: 
+Team Member:  Doug
 
 Create a function that will sum up only even numbers from 0 - 50.
 */
 
 
 /*Mission 2: 
-Team Member: 
+Team Member: Nick
 
 Create a function that will sum up only odd numbers from 0 - 50.
  */
 
 
 /*Mission 3: 
-Team Member: 
+Team Member: May
 
 Create a function that will sum up two numbers.
  */
 
 
 /*Mission 4: 
-Team Member: 
+Team Member: Jesus
 
 Create a function that will multiply two numbers.
  */
 
 
 /*Mission 5:
-Team Member: 
+Team Member: Abby
 
 Create a function that will iterate through the given array and returns a new array with only the even indexed items.
  */
@@ -40,27 +40,28 @@ var myMenu = ['carrot cake', 'brocolli', 'lemon bars', 'spinach', 'oreo cheeseca
 
 
 /*Mission 6:
-Team Member: 
+Team Member: Romeo
 
 Create a function that will sum up numbers from 0 - 100. 
 */
 
 /*Mission 7:
-Team Member:
+Team Member: Chaz
 
-Target the div element in the index.html and give it the content of "Hello World"
+Create a function that will reverse a string. 
 */
 
 
-/*Mission 8:
-Team Member: 
 
-Create a div element, give it an id of 'menu', give it the content of 'Aloooooha Everyone!' and append it to the body element.
+/*Mission 8:
+Team Member: Jason
+
+Create a function that will remove the first item in an array.
 */
 
 
 /*Mission 9:
-Team Member: 
+Team Member: George
 
 Create a function that will divide the following elements in the array by 2 and return a new array of your results.
 */
@@ -68,14 +69,14 @@ var numArr = [10, 20, 30, 40, 50];
 
 
 /*Mission 10:
-Team Member: 
+Team Member: Isaiah
 
 Create a function that will find the multiples of 5 from 0 - 100 and returns a new array of your results.
 */
 
 
 /*Mission 11: 
-Team Member:
+Team Member: Kenny
 
 @param Datatype: String
 @return Datatype: String
@@ -85,7 +86,7 @@ Console.log to see your result.*/
 
  
 /*Mission 12: 
-Team Member: 
+Team Member: McKarl (aka Patrick)
  
 @param Datatype: String
 @param Datatype: Number
@@ -97,7 +98,7 @@ Console log to see your result.*/
  
  
 /*Mission 13: 
-Team Member:
+Team Member: Jamie Y
  
 @param Datatype: Array
 @return Datatype: Array
@@ -107,7 +108,7 @@ Console.log your result.*/
  
  
 /*Mission 14: 
-Team Member:
+Team Member: Harsh
  
 @param Datatype: Array
 @return Datatype: Array
@@ -117,7 +118,7 @@ Console.log your result.*/
  
 
 /*Mission 15:
-Team Member: 
+Team Member: Jeff
  
 @param Datatype: Array
 @param Datatype: String
@@ -128,7 +129,7 @@ Console.log your result*/
  
 
 /*Mission 16:
-Team Member:
+Team Member: Jamie F
  
 @param Datatype: Number
 @return Datatype: Number
@@ -138,7 +139,7 @@ Console.log your result*/
  
 
 /*Mission 17:
-Team Member: 
+Team Member: Sarah
  
 @param Datatype: Number
 @return Datatype: Number
@@ -148,7 +149,7 @@ Console.log your result.*/
  
 
 /*Mission 18:
-Team Member:
+Team Member: Wymin
  
 @param Datatype: Number
 @return Datatype: String
@@ -163,7 +164,7 @@ Console.log your result*/
  
 
 /*Mission 19:
-Team Member:
+Team Member: Carl 
  
 @param Datatype: Array
 @return Datatype: Array
@@ -174,7 +175,7 @@ var numBox = [6, 24, 16, 2, 3];
  
 
 /*Mission 20:
-Team Member:
+Team Member: Bronson
  
 @param Datatype: Array
 @return Datatype: Array
