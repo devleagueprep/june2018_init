@@ -1,7 +1,9 @@
 /*Congratulations, you've been selected for your final top secret mission. Should you choose to accept it, do a git fetch and a git pull to find your specific mission. After you complete your mission, commit your work and do a pull request.
 
 As always, should you be caught copy and pasta, the Secretary will disavow any knowledge of your actions. 
-This repo will self-destruct in five seconds. Good luck!*/
+This repo will self-destruct in five seconds. Good luck, as you'll need it!*/
+
+
 
 /*Mission 1: 
 Team Member:  Doug
