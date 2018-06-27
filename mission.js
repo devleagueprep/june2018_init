@@ -86,6 +86,12 @@ Team Member: Kenny
 Create a function named weatherReport that takes a parameter weather and returns the following: "Today's forecast is weather." Where your input will replace the weather parameter.
 Console.log to see your result.*/
 
+function weatherReport(weather){
+    return 'Today\'s forecast is ' + weather + '.';
+}
+
+console.log(weatherReport('rainy'));
+
  
 /*Mission 12: 
 Team Member: McKarl (aka Patrick)
