@@ -29,7 +29,9 @@ Team Member: Jesus
 
 Create a function that will multiply two numbers.
  */
-
+function multiply (number1, number2) {
+    return number1*number2;
+}
 
 /*Mission 5:
 Team Member: Abby
