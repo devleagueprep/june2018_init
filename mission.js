@@ -83,7 +83,7 @@ divideArrTwo();
 
 
 /*Mission 10:
-Team Member: Isaiah
+Team Member: Isaiah Yo
 
 Create a function that will find the multiples of 5 from 0 - 100 and returns a new array of your results.
 */
