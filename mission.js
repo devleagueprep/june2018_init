@@ -10,28 +10,47 @@ Team Member:  Doug
 
 Create a function that will sum up only even numbers from 0 - 50.
 */
-
+var sum = 0;
+for (var i = 0; i <= 50; i++) {
+    if (i % 2 === 0) {
+        sum += i;
+    }
+}
 
 /*Mission 2: 
 Team Member: Nick
 
 Create a function that will sum up only odd numbers from 0 - 50.
  */
-
+var sum = 0;
+for (var i = 0; i <= 50; i++) {
+    if (i % 2 === 1) {
+        sum += i;
+    }
+}
 
 /*Mission 3: 
 Team Member: May
 
 Create a function that will sum up two numbers.
  */
-
+function sumUp(a, b) {
+    var sum = 0;
+    sum = a + b;
+    return sum;
+}
+sumUp(1,2);
 
 /*Mission 4: 
 Team Member: Jesus
 
 Create a function that will multiply two numbers.
  */
-
+function Mult(a,b) {
+    var mul = 0;
+    mul = a * b;
+    return mul;
+}
 
 /*Mission 5:
 Team Member: Abby
