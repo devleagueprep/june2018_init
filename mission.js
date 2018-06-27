@@ -184,7 +184,13 @@ Team Member: Bronson
  
 Create a function named backwards that takes in a parameter arr and returns the array in reverse order. Use a reverse for loop. 
 Console.log you result.*/
- 
+ function backwards(arr) {
+   var reversedArr = [];
+   for (var i = arr.length - 1; i >= 0; i--) {
+    reversedArr.push(arr[i]);
+   }
+   return reversedArr;
+ }
  
  
  
