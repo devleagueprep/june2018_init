@@ -117,8 +117,17 @@ Team Member: Harsh
  
 Create a function named evens that takes in a parameter arr and will sum up only the even indexed numbers in the array and returns a new array.
 Console.log your result.*/
- 
+ function evens(arr) {
+     var a = 0;
 
+     for (var i=0; i<arr.length; i++) {
+         if(i % 2 === 0) {
+            a += i;
+         }
+     }
+     return arr;
+ }
+evens(numArr);
 /*Mission 15:
 Team Member: Jeff
  
