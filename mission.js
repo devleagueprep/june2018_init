@@ -53,6 +53,14 @@ Team Member: Chaz
 Create a function that will reverse a string. 
 */
 
+function reverseStr(str) {
+    var splitString = str.split(""); 
+    var reverseArray = splitString.reverse();
+    var joinArray = reverseArray.join("");
+    return joinArray; 
+};
+
+console.log(reverseStr("Vic Da Man"));
 
 
 /*Mission 8:
