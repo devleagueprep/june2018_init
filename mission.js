@@ -20,9 +20,9 @@ Create a function that will sum up only odd numbers from 0 - 50.
 var total = 0;
 var start = 0;
 
-while (start <= 50){
-     start+=;
-}
+while (start <= 50) {
+     start +=
+};
 console.log(start);
 
 /*Mission 3: 
