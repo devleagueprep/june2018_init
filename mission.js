@@ -46,7 +46,10 @@ Team Member: Romeo
 
 Create a function that will sum up numbers from 0 - 100. 
 */
-
+function addNum(){
+    for (var i = 0; i<100; i++)
+        i
+}
 /*Mission 7:
 Team Member: Chaz
 
