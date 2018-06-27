@@ -107,7 +107,13 @@ Team Member: Jamie Y
  
 Create a function named doubleUp that takes in a parameter arr and will double the value of each number in the array and returns the array.
 Console.log your result.*/
- 
+function doubleUp(arr) {
+    var newArr = []; 
+    for (var i=0; i<arr.length; i++) {
+        newArr.push(arr[i] * 2);
+     }
+    return newArr;
+ }
  
 /*Mission 14: 
 Team Member: Harsh
