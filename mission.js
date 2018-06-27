@@ -10,6 +10,13 @@ Team Member:  Doug
 
 Create a function that will sum up only even numbers from 0 - 50.
 */
+function sumOfAllNumbers () {
+    var sum = 0;
+    for(var x=2; x<=50; x = x+2){
+        sum+=x;
+    }
+    return sum;
+}
 
 
 /*Mission 2: 
