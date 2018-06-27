@@ -163,6 +163,18 @@ Create a function named whatToEat that takes in a parameter budget. Create the f
  >10 => "Peppas"
  
 Console.log your result*/
+
+function whatToEat(num) {
+    if (num <=5) {
+        return "Mickey D's";
+    } else if (num <= 10) {
+        return "Panda Express";
+    } else {
+        return "Peppas";
+    }
+};
+
+console.log(whatToEat());
  
 
 /*Mission 19:
