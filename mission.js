@@ -11,6 +11,18 @@ Team Member:  Doug
 Create a function that will sum up only even numbers from 0 - 50.
 */
 
+var num = 0
+
+for(var i=0; i<51; i++) {
+    if (i%2===0){
+        num += i;
+        console.log(num);
+    }
+}
+
+
+
+
 
 /*Mission 2: 
 Team Member: Nick
