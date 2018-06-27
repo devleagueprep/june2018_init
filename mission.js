@@ -39,7 +39,16 @@ Team Member: Abby
 Create a function that will iterate through the given array and returns a new array with only the even indexed items.
  */
 var myMenu = ['carrot cake', 'brocolli', 'lemon bars', 'spinach', 'oreo cheesecake', 'alfalfa sprouts', 'brownies'];
-
+var newMenu = [];
+function evenArr(){
+    for(var i = 0; i< myMenu.length; i++){
+        if(i % 2 === 0 || i === 0){
+            newMenu.push(myMenu[i]);
+        }
+    }
+    return newMenu;
+}
+console.log(evenArr());
 
 /*Mission 6:
 Team Member: Romeo
