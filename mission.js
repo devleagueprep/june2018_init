@@ -174,6 +174,15 @@ Team Member: Carl
 Create a function named countUp that takes in a parameter arr and will add 1 to each number in the array and returns the array.
 Console.log you result.*/
 var numBox = [6, 24, 16, 2, 3];
+var newArray = [];
+
+function countUp(arr){
+    for(i = 0; i > numBox.length; i++){
+        i++;
+        newArray.push(numBox);
+    }
+    return newArray;
+}
  
 
 /*Mission 20:
